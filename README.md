@@ -41,7 +41,18 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 ![Asafesseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafesseidon&theme=algolia_icons=true)
 
 ---
- ### Socials
+
+### Skills
+Portuguese Fluent(native language)
+English Advanced(Intermediary 2 according to "Cultura Inglesa")
+BackEnd and FrontEnd Development
+
+
+### My Programming Voyage
+
+I first started my programming journey with a little FrontEnd event called "Next Level Week"(NLW) in 2020, it was a event focused on creating an app called "Ecoleta" to help with the collection of trash, hosted by Rocketseat, a organization focused on teaching programming here in Brazil, specially Web Development, then I continued doing other NLW they hosted, with a significant one being the "NLW Return", in there I created an app called Doctor are, an app to find doctors, then after some time passed I entered the federal high school "Colégio Pedro II" in the Campus of Duque de Caxias, to do the technical course  of "System Development", in there I solidified my knowledge about programming specially BackEnd, learning Node.JS, Express, Python, SQLite, PostgreSQL, while also learning C, and CSS Frameworks like Bootstrap and Tailwind, in the midst of studying there I also made some projects, like the sites "MKJ Enterprises", "WeFood", "Asafesseidon'sWebsite", and "Binary steam".
+
+### Socials
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452188/discord.svg"> `asafesseidon`
 #
