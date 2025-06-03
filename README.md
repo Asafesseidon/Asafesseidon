@@ -44,9 +44,14 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 
 ### Skills
 Portuguese Fluent(native language)
+---
 English Advanced(Intermediary 2 according to "Cultura Inglesa")
+---
 BackEnd and FrontEnd Development
-
+---
+Keyboard Playing
+---
+Music Writing
 
 ### My Programming Voyage
 
