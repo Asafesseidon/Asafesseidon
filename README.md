@@ -33,8 +33,10 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+--
 <br />
----
+
 
 ### 📊 Stats
 
