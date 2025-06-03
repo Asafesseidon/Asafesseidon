@@ -36,8 +36,12 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 
 <br />
 
-###
+### .
+### 📊 Stats
 
+![Asafesseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafesseidon&theme=algolia_icons=true)
+
+---
 
 ### Skills
 Portuguese Fluent(native language)
@@ -61,11 +65,7 @@ I first started my programming journey with a little FrontEnd event called "Next
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452213/gmail.svg" href="mailto:asafedm@gmail.com"> `asafedm@gmail.com`
 
 
-### 📊 Stats
 
-![Asafesseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafesseidon&theme=algolia_icons=true)
-
----
 <!---
 Asafesseidon/Asafesseidon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
