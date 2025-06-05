@@ -60,7 +60,7 @@ I first started my programming journey with a little FrontEnd event called "Next
 
 ### Socials
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452188/discord.svg"> `asafesseidon`
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452188/discord.svg"> <a href="https://discordapp.com/users/asafesseidon">`asafesseidon`</a>
 #
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452213/gmail.svg"> <a href="mailto:asafedm@gmail.com" style="text-decoration:none;" >`asafedm@gmail.com`</a>
 #
