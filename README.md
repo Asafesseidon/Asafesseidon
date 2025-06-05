@@ -62,9 +62,9 @@ I first started my programming journey with a little FrontEnd event called "Next
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452188/discord.svg"> `asafesseidon`
 #
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452213/gmail.svg"> <a href="mailto:asafedm@gmail.com">`asafedm@gmail.com`</a>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452213/gmail.svg"> <a href="mailto:asafedm@gmail.com" style="text-decoration=none;" >`asafedm@gmail.com`</a>
 #
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg"><a href="https://www.linkedin.com/in/asafe-domingues-marcelino-4066021ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> `Asafe Domingues Marcelino`</a>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg"><a href="https://www.linkedin.com/in/asafe-domingues-marcelino-4066021ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" href="mailto:asafedm@gmail.com"> `Asafe Domingues Marcelino`</a>
 
 
 
