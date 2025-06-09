@@ -36,9 +36,8 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br />
-
-### .
+<br>
+---
 ### 📊 Stats
 
 ![Asafesseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafesseidon&theme=algolia_icons=true)
