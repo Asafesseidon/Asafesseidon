@@ -49,7 +49,7 @@ Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Dom
 ### 💻 Skills
 :notebook:Portuguese Fluent(native language)
 --
-:notebook_with_decorative_cover: English Advanced(Intermediary 2 according to "Cultura Inglesa")
+:notebook_with_decorative_cover:English Advanced(Intermediary 2 according to "Cultura Inglesa")
 --
 :desktop_computer:BackEnd and FrontEnd Development
 --
