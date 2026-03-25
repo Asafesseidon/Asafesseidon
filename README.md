@@ -40,12 +40,6 @@ Greetings! Ladies and Gentlemens! I’m @Asafesseidon, my real name is Asafe Dom
 
 ---
 
-### 📊 Stats
-
-![Asafesseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=asafesseidon&theme=algolia_icons=true)
-
----
-
 ### 💻 Skills
 :notebook:Portuguese Fluent(native language)
 --
