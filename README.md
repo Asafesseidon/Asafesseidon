@@ -4,7 +4,7 @@
 
 `Software Engineer and Musician`
 
-Greetings! Ladies and Gentlemans! I’m @Asafesseidon, my real name is Asafe Domingues Marcelino, a Hexadecimal Wizard aiming to use my knowledge to solve problems that plague our world, and bring a sparkle of hope where i walk, specially through the use of the apps and technologies I create! 
+Greetings! Ladies and Gentlemens! I’m @Asafesseidon, my real name is Asafe Domingues Marcelino, a Hexadecimal Wizard, graduate in the technical course Systems Development from Colégio Pedro II, aiming to use my knowledge to solve problems that plague our world, and bring a spark of hope wherever I go, especially through the use of the apps and technologies I create! 
 
 --- 
 ### 🧰 Languages and Tools
